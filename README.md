@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyze Blin
 The dashboard helps understand sales trends, compare outlet performance, and identify important business insights through interactive visualizations.
 
 ## Dashboard Preview
-![Blinkit Sales Dashboard](Screenshots/dashboard.png)
+![Blinkit Sales Dashboard](Screenshot%202026-10-31%20153602.png)
 
 ## Tools & Technologies
 - Power BI
